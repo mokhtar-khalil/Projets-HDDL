@@ -1,6 +1,0 @@
-Conditional VAEs
-https://ijdykeman.github.io/ml/2016/12/21/cvae.html
-https://inria.hal.science/hal-02175776/document
-https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-cnn-cvae.ipynb
-https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-cvae.ipynb
-https://github.com/lharries/PyTorch-Autoencoders/blob/master/autoencoders.ipynb
